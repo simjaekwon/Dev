@@ -5,7 +5,8 @@
 3. 전체 로그 확인
   => git log
 4. 저장소 복제 및 다운로드
-  => git clone [https://~~~]
+  => git clone [https://~~~] git 폴더이름
+  => 저장 위치로 이동 후 code + . 엔터치면 vscode 실행된다.
 5. 저장소에 코드 추가
   => git add
   => git add *
